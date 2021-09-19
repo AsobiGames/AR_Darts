@@ -157,6 +157,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1148347d1951f6a4db45c159507c200d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isForceOK: 0
   dartFrontCollider: {fileID: 8494288713812238691}
 --- !u!1 &8494288713812238692
 GameObject:
